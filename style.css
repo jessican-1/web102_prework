@@ -21,6 +21,11 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +77,27 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.progress-bar {
+    background-color: #ddd;
+    border-radius: 10px;
+    height: 15px;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.progress-fill {
+    background-color: lightblue;
+    height: 100%;
+}
+
+#search-input {
+    font-family: 'Cabin';
+    border: none;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+    width: 250px;
 }
