@@ -19,13 +19,13 @@ The following **optional** features are implemented:
 
 * [x] Each game card includes a progress bar showing how close the game is to reaching its goal.
 * [x] A “Surprise Me” button displays one random game from the list.
-* [x] A search bar to loop up games by name.
+* [x] A search bar to look up games by name.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features: 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SeaMonsterDEMO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with freeconvert.com
 
